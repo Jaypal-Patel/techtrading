@@ -1,0 +1,47 @@
+{
+    "stocks": [
+      {
+        "name": "ASIANPAINT",
+        "price": "485.2",
+        "change": "-1.75",
+        "percent": "-0.36%",
+        "color": "red"
+      },
+      {
+        "name": "BHARATFORG",
+        "price": "1320.55",
+        "change": "-1.6",
+        "percent": "-0.12%",
+        "color": "red"
+      },
+      {
+        "name": "BHARTIARTL",
+        "price": "1569.6",
+        "change": "-7.65",
+        "percent": "-0.49%",
+        "color": "red"
+      },
+      {
+        "name": "BHEL",
+        "price": "246",
+        "change": "+2.03",
+        "percent": "+0.83%",
+        "color": "green"
+      },
+      {
+        "name": "BIOCON",
+        "price": "354.6",
+        "change": "+1.95",
+        "percent": "+0.55%",
+        "color": "green"
+      },
+      {
+        "name": "BOSCHLTD",
+        "price": "34800.45",
+        "change": "-187",
+        "percent": "-0.53%",
+        "color": "red"
+      }
+    ]
+  }
+  
